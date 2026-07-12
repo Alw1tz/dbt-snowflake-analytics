@@ -1,0 +1,19 @@
+order_item_id,order_id,product_name,quantity,unit_price
+1,101,Wireless Mouse,2,15.99
+2,101,USB-C Cable,3,8.50
+3,102,Mechanical Keyboard,1,89.99
+4,103,Laptop Stand,1,29.99
+5,104,Webcam HD,1,45.00
+6,105,Wireless Mouse,1,15.99
+7,105,Monitor Arm,1,59.99
+8,106,USB-C Cable,5,8.50
+9,107,Mechanical Keyboard,1,89.99
+10,107,Wireless Mouse,1,15.99
+11,108,Laptop Stand,2,29.99
+12,109,Webcam HD,1,45.00
+13,110,Monitor Arm,1,59.99
+14,111,USB-C Cable,2,8.50
+15,112,Mechanical Keyboard,1,89.99
+16,113,Wireless Mouse,3,15.99
+17,114,Laptop Stand,1,29.99
+18,115,Monitor Arm,2,59.99

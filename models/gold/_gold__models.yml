@@ -1,0 +1,18 @@
+version: 2
+
+models:
+  - name: dim_customers
+    description: One row per customer with lifetime value and order history.
+    columns:
+      - name: customer_id
+        data_tests:
+          - unique
+          - not_null
+
+  - name: fct_daily_sales
+    description: Daily grain sales summary — completed orders only.
+    columns:
+      - name: order_date
+        data_tests:
+          - unique
+          - not_null
